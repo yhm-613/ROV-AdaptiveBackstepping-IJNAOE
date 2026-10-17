@@ -1,0 +1,19 @@
+# Simulink / MATLAB build artifacts
+slprj/
+*.slxc
+*.slx.bak
+*.autosave
+codegen_*/
+*_ert_rtw/
+*.asv
+
+# Editor / OS noise
+*~
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Local backup files
+_bak*/
+*.bak_*
